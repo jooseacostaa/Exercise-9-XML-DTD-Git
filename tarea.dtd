@@ -1,0 +1,16 @@
+<!ELEMENT video_stores (video_store*)>
+<!ELEMENT video_store (videogames, films)>
+<!ELEMENT videogames (videogame*)>
+<!ELEMENT films (film*)>
+<!ELEMENT videogame (videogame_title, platform, launch_year, developer, ratings)>
+<!ELEMENT videogame_title (#PCDATA)>
+<!ELEMENT platform (#PCDATA)>
+<!ELEMENT launch_year (#PCDATA)>
+<!ELEMENT developer (#PCDATA)>
+<!ELEMENT ratings (#PCDATA)>
+<!ELEMENT film (film_title, director, duration, film_gender, age)>
+<!ELEMENT film_title (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT film_gender (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
