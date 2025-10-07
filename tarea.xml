@@ -12,8 +12,36 @@
                 <developer></developer>
                 <ratings></ratings>
             </videogame>
+            <videogame>
+                <videogame_title></videogame_title>
+                <platform></platform>
+                <launch_year></launch_year>
+                <developer></developer>
+                <ratings></ratings>
+            </videogame>
+            <videogame>
+                <videogame_title></videogame_title>
+                <platform></platform>
+                <launch_year></launch_year>
+                <developer></developer>
+                <ratings></ratings>
+            </videogame>
         </videogames>
         <films>
+            <film>
+                <film_title></film_title>
+                <director></director>
+                <duration></duration>
+                <film_gender></film_gender>
+                <age></age>
+            </film>
+            <film>
+                <film_title></film_title>
+                <director></director>
+                <duration></duration>
+                <film_gender></film_gender>
+                <age></age>
+            </film>
             <film>
                 <film_title></film_title>
                 <director></director>
