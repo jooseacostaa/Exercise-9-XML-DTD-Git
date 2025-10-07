@@ -6,48 +6,48 @@
     <video_store>
         <videogames>
             <videogame>
-                <videogame_title></videogame_title>
-                <platform></platform>
-                <launch_year></launch_year>
-                <developer></developer>
-                <ratings></ratings>
+                <videogame_title>God Of War</videogame_title>
+                <platform>PS5</platform>
+                <launch_year>2018</launch_year>
+                <developer>Santamonica Studio</developer>
+                <ratings>9/10</ratings>
             </videogame>
             <videogame>
-                <videogame_title></videogame_title>
-                <platform></platform>
-                <launch_year></launch_year>
-                <developer></developer>
-                <ratings></ratings>
+                <videogame_title>Uncharted</videogame_title>
+                <platform>PS5, PC</platform>
+                <launch_year>2015</launch_year>
+                <developer>Naughty Dog</developer>
+                <ratings>8,75/10</ratings>
             </videogame>
             <videogame>
-                <videogame_title></videogame_title>
-                <platform></platform>
-                <launch_year></launch_year>
-                <developer></developer>
-                <ratings></ratings>
+                <videogame_title>Call of Duty</videogame_title>
+                <platform>Ps5,PC,Xbox</platform>
+                <launch_year>2020</launch_year>
+                <developer>Activision</developer>
+                <ratings>8/10</ratings>
             </videogame>
         </videogames>
         <films>
             <film>
-                <film_title></film_title>
-                <director></director>
-                <duration></duration>
-                <film_gender></film_gender>
-                <age></age>
+                <film_title>Fight Club</film_title>
+                <director>David Fincher</director>
+                <duration>189</duration>
+                <film_gender>Thriller </film_gender>
+                <age>+18</age>
             </film>
             <film>
-                <film_title></film_title>
-                <director></director>
-                <duration></duration>
-                <film_gender></film_gender>
-                <age></age>
+                <film_title>Transformers</film_title>
+                <director>Michael Bay</director>
+                <duration>200</duration>
+                <film_gender>Action</film_gender>
+                <age>+7</age>
             </film>
             <film>
-                <film_title></film_title>
-                <director></director>
-                <duration></duration>
-                <film_gender></film_gender>
-                <age></age>
+                <film_title>Avatar</film_title>
+                <director>James Cameron</director>
+                <duration>213</duration>
+                <film_gender>Adventure</film_gender>
+                <age>+12</age>
             </film>
         </films>
     </video_store>
